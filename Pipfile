@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 openai = "*"
 telebot = "*"
-decouple = "*"
+python-decouple = "*"
 
 [dev-packages]
 
